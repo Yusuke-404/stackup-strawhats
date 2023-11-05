@@ -2,8 +2,8 @@
 # Project Name
 Long Description about project. This project do that. This project is awesome...
 ## Team members
-1. Adithyan K A [github.com/Yusuke-404]
-2. B Akash [github.com/bakash007]
+1. Adithyan K A [https://github.com/Yusuke-404]
+2. B Akash [https://github.com/bakash007]
 ## Team Id
 strawhats
 ## Link to product walkthrough
